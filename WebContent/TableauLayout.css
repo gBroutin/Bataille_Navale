@@ -1,0 +1,7 @@
+@CHARSET "ISO-8859-1";
+
+.tableaux {
+	display: inline-block;
+	vertical-align: top;
+	margin: 50px;
+}
