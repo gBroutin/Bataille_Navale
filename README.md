@@ -15,5 +15,7 @@
 		*celle de gauche est la grille contenant vos bateaux, c'est sur celle ci que l'ordinateur lance ses missiles dans l'espoir de toucher vos navires.
 
 Information:
+
 Initialement on instancie des bateaux que l'on positionne sur la grille.
+
 A chaque fois que l'on joue l'ordinateur joue.Il joue de maniere aleatoire.
